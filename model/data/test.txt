@@ -1,0 +1,11 @@
+__label__time What is the time in Austria ?
+__label__time What time is it in Romania now?
+__label__weather Will it rain today ?
+__label__joke Tell me something funny?
+__label__other When was Donald Trump born?
+__label__other How do you build a computer?
+__label__other What is global warming?
+__label__news Read me the news today.
+__label__other What is happening around the world?
+__label__other Tell me the news.
+

@@ -1,0 +1,5 @@
+{
+    "X-RapidAPI-Key" : "<jokes-api-key>",
+    "X-RapidAPI-Host" : "<jokes-api-host>",        
+    "WeatherAPI-Key" : "<weather-api-key>"
+}

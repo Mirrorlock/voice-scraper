@@ -1,0 +1,71 @@
+__label__weather What is the weather today ?
+__label__weather Tell me the weather ?
+__label__weather Will it rain today ?
+__label__weather What will the weather be like today ?
+__label__weather Will it be sunny today ?
+__label__weather Should I wear an umbrella today ?
+__label__weather What will the sky be like today ?
+__label__weather Will it be windy today ?
+__label__weather Will it be sunny today?
+__label__weather Will it be cloudy today?
+__label__weather Will it rain today?
+__label__weather Will it snow today?
+__label__weather Will it be snowy today?
+__label__weather Will it be windy today?
+__label__weather How strong will the wind be?
+__label__weather What is the weather in Bucharest?
+__label__weather What is the weather in anything?
+__label__weather What is the weather in North Macedonia?
+__label__weather What is the weather in Siberia?
+__label__weather What is the weather like in Hungary?
+__label__weather What the weather in South America is like?
+
+__label__time What is the time Dubai ? 
+__label__time What time is it in New York ?
+__label__time What is the time in Manhattan?
+__label__time What time is it in Bali ?
+__label__time What is the time in Barcelona?
+__label__time What time is it in Budapest ?
+__label__time What is the time in Budapest ?
+
+__label__joke Tell me a joke.
+__label__joke Tell me a joke?
+__label__joke Tell me a joke, please.
+__label__joke Please tell me a joke.
+__label__joke Please, tell me a joke?
+__label__joke Tell me another joke.
+__label__joke Tell me another joke, please.
+__label__joke Tell me something funny?
+__label__joke What jokes do you know ?
+__label__joke What types of jokes do you know ?
+__label__joke Do you tell jokes?
+__label__joke Can you tell me a joke?
+__label__joke Can you be funny ?
+__label__joke Cheer me up ?
+__label__joke Brighten up my day ?
+__label__joke Let me enjoy a little laughter ?
+
+__label__news Read me the news.
+__label__news Read me the news today.
+__label__news What are the news today?
+__label__news What is happening today?
+__label__news What is happening in the world today?
+__label__news What is new today?
+__label__news What are the news today?
+__label__news What's new?
+__label__news Give me today's news?
+
+__label__other What is the result of 2*3 ? 
+__label__other How long do humans live ? 
+__label__other How do I live long ?  
+__label__other Who is the best rock climber in the world? 
+__label__other Tell me a few great painters? 
+__label__other When do braincells die? 
+__label__other When was Leonardo Dicaprio born? 
+__label__other What is euphoria?
+__label__other Who is Picasso?
+__label__other Why were Egyptians considered more advanced than us?
+__label__other Give me a list of Egyptian gods?
+__label__other How do you cook chicken soup?
+__label__other What are the requirements to run Forza Horizon?
+__label__other How do bacteria reproduce?
